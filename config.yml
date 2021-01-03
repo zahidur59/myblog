@@ -16,8 +16,8 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: dPixelMan Blurbs
+    description: "well, the title says it all"
     author: Me
     # author: ["Me", "You"] # multiple authors
 
@@ -45,7 +45,7 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: ExampleSite
+        title: dPixelMan Blurbs
         # imageUrl: '<img location>'
         # imageTitle: my image
         buttons:
@@ -60,12 +60,12 @@ params:
         Content: Welcome to my blog
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+        #- name: twitter
+        #  url: "https://twitter.com/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/zahidur59/"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/zahidur59"
 
     analytics:
         google:
@@ -73,10 +73,10 @@ params:
 
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
+        #- identifier: categories
+        #  name: categories
+        #  url: /categories/
+        #  weight: 10
         - identifier: tags
           name: tags
           url: /tags/

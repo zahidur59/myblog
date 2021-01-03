@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://examplesite.com/posts/post_2/</loc>
+    <lastmod>2020-11-03T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/posts/post_1/</loc>
+    <lastmod>2020-09-16T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/posts/post_3/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2020-11-03T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/play/</loc>
+    <lastmod>2020-11-03T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/posts/</loc>
+    <lastmod>2020-11-03T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2020-11-03T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE/</loc>
+    <lastmod>2020-11-03T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/work/</loc>
+    <lastmod>2020-09-16T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/english/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/</loc>
+  </url>
+  
+</urlset>
