@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English on dPixelMan Blurbs</title>
-    <link>https://examplesite.com/tags/english/</link>
+    <link>https://zahidur59.github.io/myblog/tags/english/</link>
     <description>Recent content in English on dPixelMan Blurbs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://zahidur59.github.io/myblog/tags/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>https://examplesite.com/posts/post_3/</link>
+      <link>https://zahidur59.github.io/myblog/posts/post_3/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/post_3/</guid>
+      <guid>https://zahidur59.github.io/myblog/posts/post_3/</guid>
       <description>-What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
