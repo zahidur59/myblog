@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 disableShare: false
 cover:
-    image: "/hotel-california.webp"
+    image: "hotel-california.webp"
     alt: "<alt text>"
     caption: "<text>"
     relative: false

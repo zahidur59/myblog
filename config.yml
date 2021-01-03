@@ -40,7 +40,7 @@ params:
 
     label:
         text: "dPixelMan Blurbs"
-        icon: /Logo-pixelman.webp
+        icon: Logo-pixelman.webp
         iconHeight: 35
 
     # profile-mode
