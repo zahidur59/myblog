@@ -1,5 +1,6 @@
 baseURL: "https://examplesite.com"
-title: ExampleSite
+title: dPixelMan Blurbs
+publishDir: docs
 paginate: 5
 theme: hugo-PaperMod
 
